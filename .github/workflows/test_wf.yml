@@ -1,0 +1,9 @@
+on: 
+  wrorkflow_dispatch:
+
+jobs: 
+  job1: 
+    runs-on: ununtu-latest
+    steps:
+      - run: sleep 3
+      - run: sleep 2
