@@ -1,5 +1,5 @@
 on: 
-  wrorkflow_dispatch:
+  workflow_dispatch:
 
 jobs: 
   job1: 
